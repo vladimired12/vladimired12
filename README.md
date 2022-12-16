@@ -1,5 +1,4 @@
-<h2 align="center"> 😄 Vladimir Yuri, estudante de Ciência de Dados e Inteligência Artificial</h2>
-
+## 😄 Vladimir Yuri, estudante de Ciência de Dados e Inteligência Artificial 
 
 <div align="center"> 
   <a href="https://github.com/vladimired12">
