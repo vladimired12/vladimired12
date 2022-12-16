@@ -1,18 +1,24 @@
-## Vladimir Yuri, estudante de Ciência de Dados e Inteligência Artificial 😄 Ele/Dele
+<h2 align="center"> 😄 Vladimir Yuri, estudante de Ciência de Dados e Inteligência Artificial</h2>
+
+
 <div align="center"> 
   <a href="https://github.com/vladimired12">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vladimired12&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vladimired12&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-Here are some ideas to get you started:
+<div align="center" style="display: inline_block"><br>        
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="TensorFlow" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg">
+  <img align="center" alt="Flask" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
+  <img align="center" alt="Flask" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
+  <img align="center" alt="Flask" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
+  <img align="center" alt="Flask" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
+ </div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br></br>
+
+- 💻 Estou atualmente estagiando no Tribunal de Contas do Estado/PB
+- 🌱 No momento aprendendendo PLN, Machine Learning, Visão Computacional, Desenvolvimento Web, Power BI
+- 💬 Converse comigo sobre Tecnologia, Jogos, Astronomia, IA, Ciência de dados!
+
