@@ -17,7 +17,6 @@
 
 <br></br>
 
-- 💻 Estou atualmente estagiando no Tribunal de Contas do Estado/PB
-- 🌱 No momento aprendendendo PLN, Machine Learning, Visão Computacional, Desenvolvimento Web, Power BI
-- 💬 Converse comigo sobre Tecnologia, Jogos, Astronomia, IA, Ciência de dados!
-
+- 💻 Atualmente terminando minha formação em Ciência de Dados e IA pela UFPB
+- 🌱 Já trabalhei como Analista e Cientista de Dados, também como Engenheiro de Machine Learning.
+- 💬 Atualmente trabalhando em projetos pessoas com Agentes de IA, Web aplicações, Automações e Soluções inteligentes!
